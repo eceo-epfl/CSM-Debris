@@ -1,4 +1,3 @@
-> [!WARNING] work in progress
 > Data downloader and PyTorch dataloader are uploaded in the jupyter notebook. The model weights and the testing code are being released.
 
 # Self-supervised pre-training enables marine debris detection across sensors
